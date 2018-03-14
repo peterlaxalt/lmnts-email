@@ -81,20 +81,20 @@ body, #bodyTable, #bodyCell {
   background-color: #ffffff !important; }
 
 .bg-clr-nightsky {
-  background-color: #07071D !important; }
+  background-color: #302924 !important; }
 
 .bg-clr-lioness {
   background-color: #DF6B1F !important;
   color: #ffffff; }
 
 .bg-clr-nightsky {
-  background-color: #07071D !important; }
+  background-color: #302924 !important; }
 
 .bg-clr-sunshine {
   background-color: #F1CB2C !important; }
 
 .bg-clr-drip {
-  background-color: #380009 !important;
+  background-color: #FF8F6F !important;
   color: #ffffff; }
 
 .bg-clr-pinetree {
@@ -103,19 +103,19 @@ body, #bodyTable, #bodyCell {
 
 .bg-clr-cream {
   background-color: #9A9AE3 !important;
-  color: #380009; }
+  color: #FF8F6F; }
 
 .bg-clr-blonde {
   background-color: #F5E8BB !important;
-  color: #380009; }
+  color: #FF8F6F; }
 
 .bg-clr-seashore {
   background-color: #8BE9E5 !important;
-  color: #380009; }
+  color: #FF8F6F; }
 
 a, a:hover, a:visited, a:active, a:focus {
-  color: #380009;
-  text-decoration: none;
+  color: #FF8F6F;
+  text-decoration: underline;
   cursor: pointer; }
 
 .lmnt-btn {
@@ -152,15 +152,15 @@ p {
   border: none;
   height: 3px;
   width: 50px;
-  background-color: #380009; }
+  background-color: #FF8F6F; }
 
 body, html {
-  background-color: #0b0b2d; }
+  background-color: #3c332d; }
 
 body, #bodyRow {
   /*@editable*/
-  background-color: #0b0b2d;
-  color: #380009;
+  background-color: #3c332d;
+  color: #FF8F6F;
   font-family: "Helvetica", "Roboto", "Arial", "Trebuchet", sans-serif;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
@@ -189,8 +189,7 @@ body, #bodyRow {
   padding-bottom: 0; }
 
 #footerRow {
-  /*@editable*/
-  background-color: #0b0b2d;
+  background-color: #FCFF5E;
   color: #ffffff;
   font-family: "Helvetica", "Roboto", "Arial", "Trebuchet", sans-serif;
   font-size: 14px;

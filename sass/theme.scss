@@ -19,13 +19,13 @@ $clr-white: #ffffff;
 $clr-sunshine: #F1CB2C;
 $clr-seashore: #8BE9E5;
 $clr-pinetree: #31AA49;
-$clr-drip: #380009;
+$clr-drip: #FF8F6F;
 $clr-lioness: #DF6B1F;
 $clr-blonde: #F5E8BB;
 $clr-nutmeg: #CBBEB6;
 $clr-tea: #8C7C72;
 
-$clr-nightsky: #07071D;
+$clr-nightsky: #302924;
 $clr-daydream: #9A9AE3;
 
 // text colors
@@ -103,7 +103,7 @@ $fnt-body:'Helvetica', 'Roboto', 'Arial', 'Trebuchet', sans-serif;
 
 a, a:hover, a:visited, a:active, a:focus {
 	color:$clr-drip;
-	text-decoration:none;
+	text-decoration:underline;
 	cursor:pointer;
 }
 
@@ -191,8 +191,8 @@ body, #bodyRow {
 
 // footer
 #footerRow {
-	/*@editable*/ background-color:lighten($clr-nightsky,4%);
-	color:$clr-white;
+	background-color:#FCFF5E;
+	color:#ffffff;
 	font-family:$fnt-body;
 	font-size:14px;
 	-webkit-font-smoothing: antialiased;
