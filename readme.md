@@ -13,4 +13,4 @@ Simple structure for building email templates with Sass.
 
 ## Test On Device
 - You can access your ```localhost:1337``` from any device because ```.ngrok``` is amazing.
-- In terminal, simply type ```$ ./ngrok http 1337``` to fire up a server and they will provide urls.
+- In terminal, simply type ```./ngrok http 1337``` to fire up a server and they will provide urls.
